@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=myVpnManager
+GenericName=Client VPN
+Comment=Connexions openconnect (AnyConnect, GlobalProtect…) en terminal
+Exec=myvpnmanager
+Icon=network-vpn
+Terminal=true
+Categories=Network;System;
+Keywords=vpn;openconnect;anyconnect;

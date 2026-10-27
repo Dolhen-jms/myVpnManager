@@ -1,0 +1,18 @@
+# compilation
+/target
+# lien vers le paquet construit par nix-build
+/result
+/result-*
+
+# ancien script : contient un mot de passe en clair
+/vpn.sh
+
+# notes et réglages locaux de Claude Code
+CLAUDE.md
+claude.md
+CLAUDE.local.md
+.claude/
+
+# éditeurs, système
+*.swp
+*~
